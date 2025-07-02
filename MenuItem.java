@@ -1,4 +1,4 @@
-//Jayden, Aaron, Nisa, Harshul, Shreya, Jian, Jhayr
+
 
 /**
 https://d16k74nzx9emoe.cloudfront.net/e91371ba-2d98-4041-9b00-a1ca030fe261/LUNCH.pdf 
